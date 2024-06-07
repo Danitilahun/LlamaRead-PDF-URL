@@ -73,5 +73,3 @@ streamlit run cookbook/llms/groq/rag/app.py
 
 - Open [localhost:8501](http://localhost:8501) to view your RAG app.
 - Add websites or PDFs and ask question.
-
-### 8. Star ⭐️ the project if you like it.
