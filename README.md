@@ -68,7 +68,7 @@ docker run -d \
 ### 6. Run RAG App
 
 ```shell
-streamlit run cookbook/llms/groq/rag/app.py
+streamlit run app.py
 ```
 
 - Open [localhost:8501](http://localhost:8501) to view your RAG app.
