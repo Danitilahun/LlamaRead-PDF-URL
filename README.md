@@ -45,13 +45,7 @@ pip install -r cookbook/llms/groq/rag/requirements.txt
 
 > Install [docker desktop](https://docs.docker.com/desktop/install/mac-install/) first.
 
-- Run using a helper script
-
-```shell
-./cookbook/run_pgvector.sh
-```
-
-- OR run using the docker run command
+- run using the docker run command
 
 ```shell
 docker run -d \
